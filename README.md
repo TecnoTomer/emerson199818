@@ -2,7 +2,7 @@
 👀 Estoy interesado en la programación, la automatización de procesos y la tecnología en general.
 🌱 Actualmente estoy aprendiendo Python y mejorando mis habilidades en automatización de procesos.
 💞️ Estoy buscando colaborar en proyectos relacionados con Python y automatización.
-📫 Puedes contactarme a través de [correo](Emerson199818@outlook.com) o [mi cuenta de LinkedIn](https://www.linkedin.com/in/emersongranda/).
+📫 Puedes contactarme a través de [mi correo electrónico](mailto:Emerson199818@outlook.com) o [mi cuenta de LinkedIn](https://www.linkedin.com/in/emersongranda/).
 😄 Pronombres: Él/Éllos.
 ⚡ ¡Dato curioso!: Me encantan los emoticones y siempre los incluyo en mis proyectos.
 Proyectos
