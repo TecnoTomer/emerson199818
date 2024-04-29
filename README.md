@@ -15,7 +15,7 @@ Habilidades en Redes y Ciberseguridad
 
 Proyectos
 - [Media_Video_Downloader_V1.0](https://github.com/emerson199818/Media_Video_Downloader_V1.0): Una herramienta para descargar videos de varias plataformas de medios. 📹
-- [NetAplication_V2.0](https://github.com/emerson199818/NetAplication_V2.0): La versión 2.0 de una aplicación de red que desarrollé. 🚀
+- [NetAplication_V2.0](https://github.com/emerson199818/NetAplication_V2.0): Esta aplicación tiene como fin ser un sistema de administración, conexiones y configuracion de redes, y sistemas operativos en general. 🚀
 - [NetAplication_v1.5](https://github.com/emerson199818/NetAplication_v1.5): Una versión anterior de la aplicación de red con algunas características adicionales. 🔄
 - [NetAplicationV1.0](https://github.com/emerson199818/NetAplicationV1.0): La primera versión de mi aplicación de red. 🎉
 - [Docker-webPage-game-mysql](https://github.com/emerson199818/Docker-webPage-game-mysql): Un proyecto utilizando Docker para implementar una página web con un juego y una base de datos MySQL. 🐳
