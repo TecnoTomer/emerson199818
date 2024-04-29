@@ -1,4 +1,4 @@
-¡Hola! 👋 Soy @emerson199818
+¡Hola! 👋 Soy Emerson Granda
 
 - 👀 Estoy interesado en la programación, la automatización de procesos y la tecnología en general.
 - 🌱 Actualmente estoy aprendiendo Python y mejorando mis habilidades en automatización de procesos.
